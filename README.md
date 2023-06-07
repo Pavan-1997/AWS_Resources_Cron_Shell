@@ -24,4 +24,4 @@ Now running the awscmds.sh at 6AM daily using a cron job, first edit the crontab
 
 crontab -e
 
-0 5 * * * /home/ubuntu/awscmds.sh
+0 6 * * * /home/ubuntu/awscmds.sh
