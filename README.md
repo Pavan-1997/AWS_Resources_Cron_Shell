@@ -2,10 +2,10 @@
 
 The resources that are considered are below:
 
-AWS EC2 Instances 
-AWS S3 Buckets
-AWS Lambda Functions
-AWS IAM Roles
+-AWS EC2 Instances 
+-AWS S3 Buckets
+-AWS Lambda Functions
+-AWS IAM Roles
 
 All the commands are written in shell in CMD text file and are executed as awscmds in Ubuntu Server
 
