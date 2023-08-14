@@ -20,7 +20,7 @@ The resources that are considered are below:
 
 ### Where JQ is a JSON Parser also we have YQ as a YAML Parser, make sure you install them before running 
 
-Now running the awscmds.sh at 6AM daily using a cron job, first edit the crontab and then add the job as below :
+### Now running the awscmds.sh at 6AM daily using a cron job, first edit the crontab and then add the job as below :
 
 crontab -e
 
