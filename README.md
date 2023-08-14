@@ -24,4 +24,6 @@ The resources that are considered are below:
 ```
 crontab -e
 ```
+```
 0 6 * * * /home/ubuntu/awscmds.sh
+```
