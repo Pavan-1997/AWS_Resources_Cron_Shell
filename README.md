@@ -14,7 +14,7 @@ The resources that are considered are below:
 
 ### Execute the above awscomds.sh as chmod 777 awscmds.sh and then ./awscmds.sh
 
-Redirect the output in a file mode as ./awscmds.sh | more
+### Redirect the output in a file mode as ./awscmds.sh | more
 
 You can also execute the above output as aws ec2 describe-instances | jq '.Reservations[].Instances[].InstanceID' , you can add this in the above script
 
