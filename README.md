@@ -16,7 +16,7 @@ The resources that are considered are below:
 
 ### Redirect the output in a file mode as ./awscmds.sh | more
 
-### You can also execute the above output as aws ec2 describe-instances | jq '.Reservations[].Instances[].InstanceID' , you can add this in the above script
+### You can also execute the above output as `aws ec2 describe-instances | jq '.Reservations[].Instances[].InstanceID'`, you can add this in the above script
 
 Where JQ is a JSON Parser also we have YQ as a YAML Parser, make sure you install them before running 
 
