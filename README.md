@@ -1,4 +1,4 @@
-# Shell Script for check the AWS Resources using AWS CLI and set a cron job to excecute at 6AM Daily
+# Shell Script to check the AWS Resources using AWS CLI and set a cron job to excecute at 6AM Daily
 
 ### The resources that are considered are below:
 
