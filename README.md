@@ -10,7 +10,7 @@
 
 - AWS IAM Roles
 
-### All the commands are written in shell in CMD text file and are executed as awscmds.sh in Ubuntu Server
+### All the commands are executed as awscmds.sh in Ubuntu Server
 
 ### Execute the above awscomds.sh as chmod 777 awscmds.sh and then ./awscmds.sh
 
